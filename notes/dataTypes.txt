@@ -1,0 +1,15 @@
+Typy danych
+
+-> liczbowe (numerical)
+    - coś co możemy zmierzyć (wzrost, waga, cena ...)
+    - liczba występowania jakiegoś zjawiska (jak dużo kupił przez rok, jak dużo razy moneta wypadła na reszkę...)
+    - coś co ma nieskończoną liczbę precyzji także ułamkowych (jak dużo kropli deszczu spadło, jak dużo czasu komuś coś zajęło...)
+    
+-> skatergoryzowane (categorical)
+    - coś czego nie można przełożyć na liczbę (płeć, czy przyszedł na spotkanie...)
+    - można przydzielić numery jako kategorię ale nie będą one powiązane liczbowo w żaden sposób (ponumerować województwa...)
+
+-> porządkowe (ordinal)
+    - kombinacja liczbowego i skategoryzowanego typu
+    - dane skategoryzowane, które mają matematyczne znaczenie (liczba gwiazdek na portalu oceniającym filmy bo dostępne opcje to tylko 1,2,3,4,5 ale numery mają znaczenie bo 2 gwiazdki oznaczają lepszy film od tego z jedną gwiazdką...)
+    
