@@ -13,3 +13,4 @@ Typy danych
     - kombinacja liczbowego i skategoryzowanego typu
     - dane skategoryzowane, które mają matematyczne znaczenie (liczba gwiazdek na portalu oceniającym filmy bo dostępne opcje to tylko 1,2,3,4,5 ale numery mają znaczenie bo 2 gwiazdki oznaczają lepszy film od tego z jedną gwiazdką...)
     
+discrete != continuous 
